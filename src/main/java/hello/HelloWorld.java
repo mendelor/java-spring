@@ -6,11 +6,4 @@ public class HelloWorld {
     System.out.println(greeter.sayHello());
   }
 }
-// vim Greeter.java
-package hello;
 
-public class Greeter {
-  public String sayHello() {
-    return "Hello world!";
-  }
-}
